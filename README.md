@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on a web study transformation project<br> I’m currently learning - AI Agentic Workflow, Devops
+ I’m currently working on a web study transformation project<br> I’m currently learning - AI Agentic Workflow, Devops<br> The lastest project i build is an offline password manager with premium featues <br> https://github.com/ArmaanCode2/Vault-pass
 
 
 ## 🌐 Socials:
