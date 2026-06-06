@@ -1,5 +1,5 @@
 # 💫 About Me:
- I’m currently working on a web study transformation project<br> I’m currently learning - AI Agentic Workflow
+ I’m currently working on a web study transformation project<br> I’m currently learning - AI Agentic Workflow, Devops
 
 
 ## 🌐 Socials:
