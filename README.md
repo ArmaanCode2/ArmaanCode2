@@ -19,8 +19,3 @@ Currently pursuing BCA at Aurobindo college <br> Full stack Developer.<br> I’m
 
 
 - Tools - ![databases](https://skillicons.dev/icons?i=npm,git,github,aws,discord) <br> 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ArmaanCode2&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ArmaanCode2&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
