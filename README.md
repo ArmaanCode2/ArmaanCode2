@@ -12,7 +12,7 @@ Currently pursuing BCA at Aurobindo college <br> Full stack Developer.<br> I’m
 - Backend -   ![backend](https://skillicons.dev/icons?i=php,nodejs,express) <br>
 
 
-- Databases - ![databases](https://skillicons.dev/icons?i=mongodb,mysql) <br>
+- Databases - ![databases](https://skillicons.dev/icons?i=mysql) <br>
 
 
 - Languages - ![languages](https://skillicons.dev/icons?i=py) <br>
